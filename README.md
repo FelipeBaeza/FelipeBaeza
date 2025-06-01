@@ -11,8 +11,6 @@ Soy estudiante de **Ingeniería de Ejecución en Informática y Computación** e
 - 🌱 Aprendiendo constantemente nuevas tecnologías
 - 👨‍💻 Trabajando en proyectos universitarios y personales
 - 🎯 Meta: Convertirme en un desarrollador full-stack
-- ⚡ Dato curioso: Me gusta resolver problemas complejos con código elegante
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
@@ -86,7 +84,6 @@ Repositorio colaborativo para trabajos universitarios en Java, Vue, PLpgSQL y m�
 - 🤖 Inteligencia Artificial y Machine Learning
 - ☁️ Tecnologías cloud (AWS, Azure)
 - 📱 Desarrollo móvil con React Native
-- 🔐 Ciberseguridad y ethical hacking
 
 ---
 ## 📈 Actividad Reciente
